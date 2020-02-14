@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaBhatti125/NodeJs-Basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamzaBhatti125/NodeJs-Basics/issues"
+  },
+  "homepage": "https://github.com/HamzaBhatti125/NodeJs-Basics#readme",
+  "dependencies": {
+    "uuid": "^3.4.0"
+  }
+}
